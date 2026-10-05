@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44cc72526d2a4ef4d8fe741d4bb15e3f, type: 3}
+  m_Name: NewStory
+  m_EditorClassIdentifier: Assembly-CSharp::StoryData
+  storyTitle: My Least Favorite Movie
+  panels:
+  - artwork: {fileID: -8310578835852675831, guid: 20f94dc7d788bcc44afb00348bca3355, type: 3}
+    displayHeight: 1200
+    bubbles:
+    - bubbleSprite: {fileID: -2028031462, guid: 20f94dc7d788bcc44afb00348bca3355, type: 3}
+      anchoredPosition: {x: 0, y: 0}
+      size: {x: 1, y: 1}
+      autoReveal: 0
+      autoRevealDelay: 0
+      shakeEnabled: 1
+      shakeAxis: 0
+      shakeIntensity: 33.3
+      shakeSpeed: 0.1
+      shakeForever: 1
+      shakeDuration: 0
+    - bubbleSprite: {fileID: 1711333503, guid: 20f94dc7d788bcc44afb00348bca3355, type: 3}
+      anchoredPosition: {x: 0, y: 0}
+      size: {x: 0, y: 0}
+      autoReveal: 0
+      autoRevealDelay: 0
+      shakeEnabled: 0
+      shakeAxis: 0
+      shakeIntensity: 0
+      shakeSpeed: 0
+      shakeForever: 0
+      shakeDuration: 0
+  - artwork: {fileID: 4197860276205774954, guid: e88c6fada55c88446a9239d2946b82e7, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: -5121341352869691447, guid: 376a3103f7f59a0438ba205db3308cd8, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: -7323664486574740162, guid: 5a2d61db8f2118643a4d49f842b12280, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: -4520297071055830135, guid: 0ed1ad7b7bbd30d48b84d036718d3b8b, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: 4635867468884011208, guid: ef49f70409b013e41b533f8691184631, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: -4136115161483952103, guid: b66c176c29cafba45967f632b5ecfc1b, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: -8716375450724968103, guid: 35c81920a8e4b25488b4f237323f205d, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: 2137716216242371292, guid: 970616884314d064bb1a4330e2e4f231, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: 5417611225404767618, guid: cfb729a2539abec4eabb741c10b8cb5f, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: 3307192853172250831, guid: fbb7adda91147c14cbc33ac3ca6c80aa, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: 2473169461620808154, guid: 3a44ebeec5131c740bc4df8a49854421, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: 6518170795123583097, guid: d46a1d98e98984240932883c0c29645d, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: 8321575771487112230, guid: 8b6456dd6fab7144d8a9982e9f2519e3, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: 5074558698993509410, guid: 704793818c434e841a29486d4f3ddbff, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: -169086679608693339, guid: 22f24b2133d098b419cf43a897879fcf, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: -5437983839632348202, guid: cd74b7ac27d44cc4dae9b539a47dfc04, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: 6059967698306153990, guid: 160f8e1e1ee64e349bf0708e0ccde00b, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: -2433043437261900681, guid: ead8f03cc3e59d7488fad5eadb335cc6, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: -8062325667557269502, guid: cc4798164ba8a14408e8e4f9569e87ca, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: 3238803014945983179, guid: 272cf78162e9296419c896deab3859b2, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: -1527868901444233695, guid: ebab11d0b6122504c8497470b469a05c, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: 2842311101645716304, guid: 898abf9598257e749836160c66c22aa2, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: -5752508232769692324, guid: ca4fb304d5f3c8e4a8f03b35b3c1e1cf, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: 1081978158219621607, guid: d87b22b39d21b604a85e3492335b21e9, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: 6047335460100020738, guid: 35b9478c2c9b8fc48bc0556cd3307979, type: 3}
+    displayHeight: 0
+    bubbles: []
+  - artwork: {fileID: -3914759286491188412, guid: 022bcb8b4b331d64c8a6ecdff73658d2, type: 3}
+    displayHeight: 0
+    bubbles: []

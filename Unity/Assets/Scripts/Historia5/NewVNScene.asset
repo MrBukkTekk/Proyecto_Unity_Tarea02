@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95bf24dead340a44fb0f988f6c1c3d5f, type: 3}
+  m_Name: NewVNScene
+  m_EditorClassIdentifier: Assembly-CSharp::VNSceneData
+  steps:
+  - artwork: {fileID: -7869170794719197068, guid: 4db71d2941bc6b8409305b921577f7a6, type: 3}
+    speakerName: 
+    dialogueText: wqeqr234rq
+    triggerEvent: 
+  - artwork: {fileID: -8147034475768079200, guid: 04902f2e1f970994fb9f05cab686933f, type: 3}
+    speakerName: 
+    dialogueText: "qiuhlr3hq\xF1r\xB4qjr\xB4qje"
+    triggerEvent: 
+  - artwork: {fileID: 1474429837810535917, guid: 6437e10499c4eef429397d4590e95557, type: 3}
+    speakerName: 
+    dialogueText: 
+    triggerEvent: 
+  - artwork: {fileID: -2519210509157662552, guid: c9005f30a165d3749983978ed83b13af, type: 3}
+    speakerName: 
+    dialogueText: liwqherw3ihr
+    triggerEvent: 
+  - artwork: {fileID: -354089055644491520, guid: 4532a098d47c7e04cb8109e65808be99, type: 3}
+    speakerName: 
+    dialogueText: "weghoriupwrj\xB4qjr"
+    triggerEvent: 
+  - artwork: {fileID: 824129300338615794, guid: 97a6217bffabd6848b8774ca4d64b5f9, type: 3}
+    speakerName: 
+    dialogueText: "wehrpoiew\xB4je4ojte\xB4t"
+    triggerEvent: 
+  - artwork: {fileID: 3873316027471134114, guid: a31b66c47c938d74088db31c51ff6b43, type: 3}
+    speakerName: 
+    dialogueText: uiewhfliurwhr
+    triggerEvent: 
+  - artwork: {fileID: 6594460113550854281, guid: 635b3614850a9344f8a68bf26094497b, type: 3}
+    speakerName: 
+    dialogueText: uh3qiuerhowqlerh
+    triggerEvent: 
+  - artwork: {fileID: 333971436678792310, guid: 413f2dd669b576b479d4960039924dce, type: 3}
+    speakerName: 
+    dialogueText: 
+    triggerEvent: 
+  - artwork: {fileID: 6574395249372774982, guid: df0799f019de17a46a96a0eeb805022e, type: 3}
+    speakerName: 
+    dialogueText: wefaiorjpwjr
+    triggerEvent: 
+  - artwork: {fileID: 7849662763050927197, guid: 6a98cb4f65602bd48aa1b328bb2d1a3d, type: 3}
+    speakerName: 
+    dialogueText: ewhkawhfiawhuifhiw
+    triggerEvent: 

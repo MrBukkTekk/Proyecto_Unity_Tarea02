@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95bf24dead340a44fb0f988f6c1c3d5f, type: 3}
+  m_Name: NewVNScene
+  m_EditorClassIdentifier: Assembly-CSharp::VNSceneData
+  steps:
+  - artwork: {fileID: -4638178355200210348, guid: 1d58d96d40b66734882f228244d52910, type: 3}
+    speakerName: morrita
+    dialogueText: "Cuando me vend\xF3 los ojos y me llev\xF3 a esa mansi\xF3n subterr\xE1nea
+      a las afueras de la ciudad, pens\xE9 que era su mejor sorpresa."
+    triggerEvent: 
+  - artwork: {fileID: 2659280027317091878, guid: 7f03e7fb131f5be499d10442640f86ca, type: 3}
+    speakerName: morrita
+    dialogueText: "El aire all\xED abajo ol\xEDa a tierra h\xFAmeda y cobre viejo.
+      Cruzamos el umbral riendo, convencidos de que nuestra agilidad mental desentra\xF1ar\xEDa
+      cualquier red de acertijos. "
+    triggerEvent: iniciar_pnc
+  - artwork: {fileID: -2496040466669729985, guid: 038373550fec6774dafe02a1d898cb1b, type: 3}
+    speakerName: morrita
+    dialogueText: "Con la precisi\xF3n de una m\xE1quina calibrada exclusivamente
+      para la crueldad, le arranc\xF3 los globos oculares de ra\xEDz. Sus gritos
+      se ahogaron en el collar de acero. El aut\xF3mata se llev\xF3 sus ojos en silencio,
+      dej\xE1ndome encerrada en la prisi\xF3n eterna de saber que mis manos, al teclear
+      esa respuesta, le dieron el permiso para hacerlo."
+    triggerEvent: 
